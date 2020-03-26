@@ -1,0 +1,2 @@
+class FileDownloadTimeoutException(Exception):
+    pass
