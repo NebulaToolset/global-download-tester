@@ -1,0 +1,21 @@
+# NA
+US Atlanta := http://ga-us-ping.vultr.com/vultr.com.1000MB.bin
+US Chicago := http://il-us-ping.vultr.com/vultr.com.1000MB.bin
+US Dallas := http://tx-us-ping.vultr.com/vultr.com.1000MB.bin
+US LosAngeles := http://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin
+US Miami := http://fl-us-ping.vultr.com/vultr.com.1000MB.bin
+US NewJersey := http://nj-us-ping.vultr.com/vultr.com.1000MB.bin
+US Seattle := http://wa-us-ping.vultr.com/vultr.com.1000MB.bin
+US SiliconValley := http://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin
+CA Toronto := http://tor-ca-ping.vultr.com/vultr.com.1000MB.bin
+
+# EU
+NL Amsterdam := http://ams-nl-ping.vultr.com/vultr.com.1000MB.bin
+DE Frankfurt := http://fra-de-ping.vultr.com/vultr.com.1000MB.bin
+UK London := http://lon-gb-ping.vultr.com/vultr.com.1000MB.bin
+FR Paris := http://par-fr-ping.vultr.com/vultr.com.1000MB.bin
+
+# AP
+SG Singapore := http://sgp-ping.vultr.com/vultr.com.1000MB.bin
+JP Tokyo := http://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin
+AU Sydney := http://syd-au-ping.vultr.com/vultr.com.1000MB.bin
