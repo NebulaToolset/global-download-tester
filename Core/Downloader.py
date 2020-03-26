@@ -8,6 +8,8 @@ import os
 import time
 import random
 import string
+import socket
+socket.setdefaulttimeout(5)
 
 
 class Downloader:
