@@ -59,7 +59,6 @@ class Watcher:
                 block_num, '%.2f%%' % (100 * self.traffic / total_size)]
         )))
         time_str = time_to_string(_current)
-        sys.stdout.flush()
         print('\r%s: %s' % (time_str, line), end='')
         # Log data
         with open(self.log_fp, 'a') as fi:
