@@ -35,6 +35,12 @@ class Downloader:
                     end_at - started_at
                 ))
                 return
+            except Exception as e:
+                import traceback
+                with open('../downloader.error.log', 'a') as fi:
+                    fi.write('\n-----------------------\n')
+                    fi.write('%s: %s\n' % (time_to_string(time.time()), e))
+                    traceback.print_exc(file=fi)
             return
         raise Exception('Downloader starts with no watcher.')
 
