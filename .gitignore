@@ -3,6 +3,8 @@ tmp/
 log/
 #files_addr/
 !*.gitkeep
+analyse/logs/
+analyse/images/
 
 # IDE
 .idea/

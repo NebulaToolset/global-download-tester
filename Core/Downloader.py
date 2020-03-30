@@ -19,7 +19,7 @@ class Downloader:
             remote_url.split('/')[-1],
             ''.join(random.sample(string.ascii_letters + string.digits, 8))
         )
-        self.watcher: Watcher or None = None
+        self.watcher = None
 
     def start(self):
         started_at = time.time()
